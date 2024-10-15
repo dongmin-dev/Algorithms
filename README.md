@@ -1,5 +1,5 @@
 # Algorithms
-This repository contains various algorithm examples in Python.
+This repository contains solutions for various algorithm examples in Python.
 
 # References
 - [Programmers](https://school.programmers.co.kr/)
